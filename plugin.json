@@ -1,0 +1,8 @@
+{
+    "name"              :"plenty-helloworld",
+    "description"       :"My first plugin",
+    "namespace"         :"plenty-helloworld",
+    "author"            :"Marco Siciliano",
+    "type"              :"template",
+    "serviceProvider"   :"plenty-helloworld\\Providers\\HelloWorldServiceProvider"
+}
